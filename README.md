@@ -1,6 +1,7 @@
 # 🚀 GitHub Setup & Developer Guide
 
 Welcome to this guide! This repository helps you quickly set up your GitHub account and generate a Personal Access Token (PAT) for automation, API usage, and development workflows.
+Release.zip folder contain github_manager_pro.exe which is executable in Windows 1125H2
 
 ---
 
