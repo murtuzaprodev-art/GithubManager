@@ -1,0 +1,225 @@
+﻿00:00 +0: loading C:/Users/MURTUZA/Desktop/Automate Repo/test/widget_test.dart
+00:00 +0: App splash screen smoke test
+WIDGET: View
+WIDGET: RawView
+WIDGET: _RawViewInternal-[_DeprecatedRawViewKey TestFlutterView#5c8f5]
+WIDGET: _ViewScope
+WIDGET: _PipelineOwnerScope
+WIDGET: _MediaQueryFromView
+WIDGET: MediaQuery(MediaQueryData(size: Size(800.0, 600.0), devicePixelRatio: 3.0, textScaler: SystemTextScaler (no scaling), platformBrightness: Brightness.light, padding: EdgeInsets.zero, viewPadding: EdgeInsets.zero, viewInsets: EdgeInsets.zero, systemGestureInsets: EdgeInsets.zero, alwaysUse24HourFormat: false, accessibleNavigation: false, highContrast: false, onOffSwitchLabels: false, disableAnimations: false, invertColors: false, boldText: false, navigationMode: traditional, gestureSettings: DeviceGestureSettings(touchSlop: null), displayFeatures: [], supportsShowingSystemContextMenu: false))
+WIDGET: FocusTraversalGroup(policy: ReadingOrderTraversalPolicy#1c604)
+WIDGET: Focus(debugLabel: "FocusTraversalGroup", focusNode: _FocusTraversalGroupNode#3d5b9(FocusTraversalGroup [IN FOCUS PATH]))
+WIDGET: _FocusInheritedScope
+WIDGET: _FocusScopeWithExternalFocusNode(debugLabel: "View Scope", focusNode: FocusScopeNode#a9146(View Scope [IN FOCUS PATH]))
+WIDGET: _FocusInheritedScope
+WIDGET: MultiProvider
+WIDGET: _NestedHook
+WIDGET: SingleChildBuilder
+WIDGET: _InheritedProviderScope<AppStateProvider?>
+WIDGET: MyApp
+WIDGET: MaterialApp
+WIDGET: ScrollConfiguration(behavior: MaterialScrollBehavior)
+WIDGET: HeroControllerScope
+WIDGET: Focus
+WIDGET: _FocusInheritedScope
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: WidgetsApp-[GlobalObjectKey _MaterialAppState#19bf1]
+WIDGET: RootRestorationScope
+WIDGET: UnmanagedRestorationScope
+WIDGET: RestorationScope
+WIDGET: UnmanagedRestorationScope
+WIDGET: SharedAppData
+WIDGET: _SharedAppModel
+WIDGET: NotificationListener<NavigationNotification>
+WIDGET: Shortcuts(shortcuts: <Default WidgetsApp Shortcuts>)
+WIDGET: Focus(debugLabel: "Shortcuts")
+WIDGET: _FocusInheritedScope
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: DefaultTextEditingShortcuts
+WIDGET: Shortcuts(shortcuts: <Default Text Editing Shortcuts>)
+WIDGET: Focus(debugLabel: "Shortcuts")
+WIDGET: _FocusInheritedScope
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: Actions(dispatcher: null, actions: {DoNothingIntent: DoNothingAction#c3953, DoNothingAndStopPropagationIntent: DoNothingAction#55e08, RequestFocusIntent: RequestFocusAction#f8702, NextFocusIntent: NextFocusAction#d3622, PreviousFocusIntent: PreviousFocusAction#7f19e, DirectionalFocusIntent: DirectionalFocusAction#230b3, ScrollIntent: _OverridableContextAction<ScrollIntent>#1b7ba(defaultAction: ScrollAction#febe3), PrioritizedIntents: PrioritizedAction#31773, VoidCallbackIntent: VoidCallbackAction#2855a})
+WIDGET: _ActionsScope
+WIDGET: FocusTraversalGroup(policy: ReadingOrderTraversalPolicy#66441)
+WIDGET: Focus(debugLabel: "FocusTraversalGroup", focusNode: _FocusTraversalGroupNode#af974(FocusTraversalGroup [IN FOCUS PATH]))
+WIDGET: _FocusInheritedScope
+WIDGET: TapRegionSurface
+WIDGET: ShortcutRegistrar
+WIDGET: _ShortcutRegistrarScope
+WIDGET: Shortcuts(manager: ShortcutManager#a22f5(shortcuts: {}), shortcuts: {})
+WIDGET: Focus(debugLabel: "Shortcuts")
+WIDGET: _FocusInheritedScope
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: ListenableBuilder(listenable: LocalizationsResolver)
+WIDGET: Localizations(locale: en_US, delegates: [DefaultMaterialLocalizations.delegate(en_US), DefaultCupertinoLocalizations.delegate(en_US), DefaultWidgetsLocalizations.delegate(en_US)])
+WIDGET: Semantics(container: false, properties: SemanticsProperties, textDirection: ltr)
+WIDGET: _LocalizationsScope-[GlobalKey#c766a]
+WIDGET: Directionality(textDirection: ltr)
+WIDGET: Title(title: "GitHub Manager Pro", color: Color(alpha: 1.0000, red: 0.0824, green: 0.1137, blue: 0.1647, colorSpace: ColorSpace.sRGB))
+WIDGET: ValueListenableBuilder<bool>
+WIDGET: DefaultTextStyle(debugLabel: fallback style; consider putting your text in a Material, inherit: true, color: Color(alpha: 0.8157, red: 1.0000, green: 0.0000, blue: 0.0000, colorSpace: ColorSpace.sRGB), family: monospace, size: 48.0, weight: 900, decoration: double Color(alpha: 1.0000, red: 1.0000, green: 1.0000, blue: 0.0000, colorSpace: ColorSpace.sRGB) TextDecoration.underline, softWrap: wrapping at box width, overflow: clip)
+WIDGET: Builder
+WIDGET: AnimatedTheme(duration: 200ms)
+WIDGET: Theme(ThemeData#1daf4)
+WIDGET: _InheritedTheme
+WIDGET: CupertinoTheme(brightness: dark, primaryColor: Color(alpha: 1.0000, red: 0.0000, green: 0.8980, blue: 1.0000, colorSpace: ColorSpace.sRGB), primaryContrastingColor: Color(alpha: 1.0000, red: 0.0000, green: 0.0000, blue: 0.0000, colorSpace: ColorSpace.sRGB), scaffoldBackgroundColor: Color(alpha: 1.0000, red: 0.0392, green: 0.0549, blue: 0.0902, colorSpace: ColorSpace.sRGB), actionTextStyle: TextStyle(inherit: false, color: Color(alpha: 1.0000, red: 0.0000, green: 0.8980, blue: 1.0000, colorSpace: ColorSpace.sRGB), family: CupertinoSystemText, size: 17.0, letterSpacing: -0.4, decoration: TextDecoration.none), actionSmallTextStyle: TextStyle(inherit: false, color: Color(alpha: 1.0000, red: 0.0000, green: 0.8980, blue: 1.0000, colorSpace: ColorSpace.sRGB), family: CupertinoSystemText, size: 15.0, letterSpacing: -0.2, decoration: TextDecoration.none), navActionTextStyle: TextStyle(inherit: false, color: Color(alpha: 1.0000, red: 0.0000, green: 0.8980, blue: 1.0000, colorSpace: ColorSpace.sRGB), family: CupertinoSystemText, size: 17.0, letterSpacing: -0.4, decoration: TextDecoration.none))
+WIDGET: InheritedCupertinoTheme
+WIDGET: IconTheme(color: Color(alpha: 1.0000, red: 0.0000, green: 0.8980, blue: 1.0000, colorSpace: ColorSpace.sRGB))
+WIDGET: IconTheme(color: Color(alpha: 1.0000, red: 1.0000, green: 1.0000, blue: 1.0000, colorSpace: ColorSpace.sRGB))
+WIDGET: DefaultSelectionStyle
+WIDGET: ScaffoldMessenger
+WIDGET: _ScaffoldMessengerScope
+WIDGET: DefaultSelectionStyle
+WIDGET: FocusScope(debugLabel: "Navigator Scope", AUTOFOCUS)
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: _FocusInheritedScope
+WIDGET: Navigator-[GlobalObjectKey<NavigatorState> _WidgetsAppState#5f255]
+WIDGET: HeroControllerScope
+WIDGET: NotificationListener<NavigationNotification>
+WIDGET: Listener(listeners: [down, up, cancel], behavior: deferToChild)
+WIDGET: AbsorbPointer(absorbing: false)
+WIDGET: FocusTraversalGroup(policy: ReadingOrderTraversalPolicy#66441)
+WIDGET: Focus(debugLabel: "FocusTraversalGroup", focusNode: _FocusTraversalGroupNode#3642e(FocusTraversalGroup [IN FOCUS PATH]))
+WIDGET: _FocusInheritedScope
+WIDGET: Focus(debugLabel: "Navigator", AUTOFOCUS, focusNode: FocusNode#26dcf(Navigator [IN FOCUS PATH]))
+WIDGET: _FocusInheritedScope
+WIDGET: UnmanagedRestorationScope
+WIDGET: Overlay-[LabeledGlobalKey<OverlayState>#7b792]
+WIDGET: _Theater(skipCount: 0)
+WIDGET: _OverlayEntryWidget-[LabeledGlobalKey<_OverlayEntryWidgetState>#4b969]
+WIDGET: TickerMode
+WIDGET: _EffectiveTickerMode(effective mode: enabled)
+WIDGET: _RenderTheaterMarker
+WIDGET: Builder
+WIDGET: IgnorePointer(ignoring: false)
+WIDGET: ModalBarrier
+WIDGET: BlockSemantics(blocking: true)
+WIDGET: ExcludeSemantics(excluding: true)
+WIDGET: _ModalBarrierGestureDetector
+WIDGET: RawGestureDetector
+WIDGET: _GestureSemantics
+WIDGET: Listener(listeners: [down, panZoomStart], behavior: opaque)
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: MouseRegion(listeners: <none>, cursor: SystemMouseCursor(basic))
+WIDGET: ConstrainedBox(BoxConstraints(biggest))
+WIDGET: _OverlayEntryWidget-[LabeledGlobalKey<_OverlayEntryWidgetState>#424d4]
+WIDGET: TickerMode
+WIDGET: _EffectiveTickerMode(effective mode: enabled)
+WIDGET: _RenderTheaterMarker
+WIDGET: Builder
+WIDGET: Semantics(container: false, properties: SemanticsProperties, sortKey: OrdinalSortKey#a279f(order: 0.0))
+WIDGET: _ModalScope<dynamic>-[LabeledGlobalKey<_ModalScopeState<dynamic>>#fc472]
+WIDGET: AnimatedBuilder(listenable: ValueNotifier<String?>#0d14c(null))
+WIDGET: RestorationScope
+WIDGET: UnmanagedRestorationScope
+WIDGET: _ModalScopeStatus(active)
+WIDGET: Offstage(offstage: false)
+WIDGET: PageStorage
+WIDGET: Builder
+WIDGET: Actions(dispatcher: null, actions: {DismissIntent: _DismissModalAction#1eb3a})
+WIDGET: _ActionsScope
+WIDGET: PrimaryScrollController(ScrollController#8160c(no clients))
+WIDGET: _FocusScopeWithExternalFocusNode(debugLabel: "_ModalScopeState<dynamic> Focus Scope", focusNode: FocusScopeNode#4ffb5(_ModalScopeState<dynamic> Focus Scope [PRIMARY FOCUS]))
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: _FocusInheritedScope
+WIDGET: RepaintBoundary
+WIDGET: ListenableBuilder(listenable: Listenable.merge([AnimationController#b4e66(ΓÅ¡ 1.000; paused; for MaterialPageRoute<dynamic>(/))Γ₧⌐ProxyAnimation, kAlwaysDismissedAnimationΓ₧⌐ProxyAnimationΓ₧⌐ProxyAnimation]))
+WIDGET: _PageTransitionsThemeTransitions<dynamic>
+WIDGET: _PredictiveBackGestureDetector
+WIDGET: _FadeForwardsPageTransition
+WIDGET: DualTransitionBuilder
+WIDGET: FadeTransition(opacity: kAlwaysCompleteAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: Interval(0.0Γï»0.75))Γ₧⌐Tween<double>(0.0 ΓåÆ 1.0)Γ₧⌐1.0)
+WIDGET: SlideTransition(listenable: kAlwaysCompleteAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: ThreePointCubic )Γ₧⌐Tween<Offset>(Offset(0.3, 0.0) ΓåÆ Offset(0.0, 0.0))Γ₧⌐Offset(0.0, 0.0))
+WIDGET: FractionalTranslation
+WIDGET: IgnorePointer(ignoring: false)
+WIDGET: FadeTransition(opacity: AnimationController#b4e66(ΓÅ¡ 1.000; paused; for MaterialPageRoute<dynamic>(/))Γ₧⌐ProxyAnimationΓ₧¬ReverseAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: Interval(0.0Γï»0.25))Γ₧⌐Tween<double>(1.0 ΓåÆ 0.0)Γ₧⌐1.0)
+WIDGET: SlideTransition(listenable: AnimationController#b4e66(ΓÅ¡ 1.000; paused; for MaterialPageRoute<dynamic>(/))Γ₧⌐ProxyAnimationΓ₧¬ReverseAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: ThreePointCubic )Γ₧⌐Tween<Offset>(Offset(0.0, 0.0) ΓåÆ Offset(0.3, 0.0))Γ₧⌐Offset(0.0, 0.0))
+WIDGET: FractionalTranslation
+WIDGET: ColoredBox(color: Color(alpha: 0.0000, red: 0.0000, green: 0.0000, blue: 0.0000, colorSpace: ColorSpace.sRGB))
+WIDGET: DualTransitionBuilder
+WIDGET: FadeTransition(opacity: kAlwaysCompleteAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: Interval(0.0Γï»0.75))Γ₧⌐Tween<double>(0.0 ΓåÆ 1.0)Γ₧⌐1.0)
+WIDGET: SlideTransition(listenable: kAlwaysCompleteAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: ThreePointCubic )Γ₧⌐Tween<Offset>(Offset(-0.3, 0.0) ΓåÆ Offset(0.0, 0.0))Γ₧⌐Offset(0.0, 0.0))
+WIDGET: FractionalTranslation
+WIDGET: FadeTransition(opacity: kAlwaysDismissedAnimationΓ₧⌐ProxyAnimationΓ₧⌐ProxyAnimationΓ₧¬ReverseAnimationΓ₧¬ReverseAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: Interval(0.0Γï»0.25))Γ₧⌐Tween<double>(1.0 ΓåÆ 0.0)Γ₧⌐1.0)
+WIDGET: SlideTransition(listenable: kAlwaysDismissedAnimationΓ₧⌐ProxyAnimationΓ₧⌐ProxyAnimationΓ₧¬ReverseAnimationΓ₧¬ReverseAnimationΓ₧⌐ProxyAnimationΓ₧⌐CurveTween(curve: ThreePointCubic )Γ₧⌐Tween<Offset>(Offset(0.0, 0.0) ΓåÆ Offset(-0.3, 0.0))Γ₧⌐Offset(0.0, 0.0))
+WIDGET: FractionalTranslation
+WIDGET: ListenableBuilder(listenable: ValueNotifier<bool>#da032(false))
+WIDGET: IgnorePointer(ignoring: false)
+WIDGET: RepaintBoundary-[GlobalKey#5c310]
+WIDGET: Builder
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: SplashScreen
+WIDGET: Scaffold
+WIDGET: _ScaffoldScope
+WIDGET: ScrollNotificationObserver
+WIDGET: NotificationListener<ScrollMetricsNotification>
+WIDGET: NotificationListener<ScrollNotification>
+WIDGET: _ScrollNotificationObserverScope
+WIDGET: Material(type: canvas, color: Color(alpha: 1.0000, red: 0.0392, green: 0.0549, blue: 0.0902, colorSpace: ColorSpace.sRGB))
+WIDGET: AnimatedPhysicalModel(duration: 200ms, shape: rectangle, borderRadius: null, elevation: 0.0, color: Color(alpha: 1.0000, red: 0.0392, green: 0.0549, blue: 0.0902, colorSpace: ColorSpace.sRGB), animateColor: false, shadowColor: Color(alpha: 1.0000, red: 0.0000, green: 0.0000, blue: 0.0000, colorSpace: ColorSpace.sRGB), animateShadowColor: true)
+WIDGET: PhysicalModel(shape: rectangle, borderRadius: BorderRadius.zero, elevation: 0.0, color: Color(alpha: 1.0000, red: 0.0392, green: 0.0549, blue: 0.0902, colorSpace: ColorSpace.sRGB), shadowColor: Color(alpha: 1.0000, red: 0.0000, green: 0.0000, blue: 0.0000, colorSpace: ColorSpace.sRGB))
+WIDGET: NotificationListener<LayoutChangedNotification>
+WIDGET: _InkFeatures-[GlobalKey#373dc ink renderer]
+WIDGET: AnimatedDefaultTextStyle(duration: 200ms, debugLabel: (englishLike bodyMedium 2021).merge((whiteMountainView bodyMedium).apply), inherit: false, color: Color(alpha: 1.0000, red: 1.0000, green: 1.0000, blue: 1.0000, colorSpace: ColorSpace.sRGB), family: Roboto, size: 14.0, weight: 400, letterSpacing: 0.3, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 1.0000, green: 1.0000, blue: 1.0000, colorSpace: ColorSpace.sRGB) TextDecoration.none, softWrap: wrapping at box width, overflow: clip)
+WIDGET: DefaultTextStyle(debugLabel: (englishLike bodyMedium 2021).merge((whiteMountainView bodyMedium).apply), inherit: false, color: Color(alpha: 1.0000, red: 1.0000, green: 1.0000, blue: 1.0000, colorSpace: ColorSpace.sRGB), family: Roboto, size: 14.0, weight: 400, letterSpacing: 0.3, baseline: alphabetic, height: 1.4x, leadingDistribution: even, decoration: Color(alpha: 1.0000, red: 1.0000, green: 1.0000, blue: 1.0000, colorSpace: ColorSpace.sRGB) TextDecoration.none, softWrap: wrapping at box width, overflow: clip)
+WIDGET: AnimatedBuilder(listenable: AnimationController#d6fbc(ΓÅ¡ 1.000; paused))
+WIDGET: Actions(dispatcher: null, actions: {DismissIntent: _DismissDrawerAction#4adae})
+WIDGET: _ActionsScope
+WIDGET: CustomMultiChildLayout
+WIDGET: LayoutId-[<_ScaffoldSlot.body>](id: _ScaffoldSlot.body)
+WIDGET: MediaQuery(MediaQueryData(size: Size(800.0, 600.0), devicePixelRatio: 3.0, textScaler: SystemTextScaler (no scaling), platformBrightness: Brightness.light, padding: EdgeInsets.zero, viewPadding: EdgeInsets.zero, viewInsets: EdgeInsets.zero, systemGestureInsets: EdgeInsets.zero, alwaysUse24HourFormat: false, accessibleNavigation: false, highContrast: false, onOffSwitchLabels: false, disableAnimations: false, invertColors: false, boldText: false, navigationMode: traditional, gestureSettings: DeviceGestureSettings(touchSlop: null), displayFeatures: [], supportsShowingSystemContextMenu: false))
+WIDGET: _BodyBuilder
+WIDGET: KeyedSubtree-[GlobalKey#9893f]
+WIDGET: Center(alignment: Alignment.center)
+WIDGET: Column(direction: vertical, mainAxisAlignment: center, crossAxisAlignment: center)
+WIDGET: Icon(IconData(U+0F653), size: 64.0, color: Color(alpha: 1.0000, red: 0.0000, green: 0.8980, blue: 1.0000, colorSpace: ColorSpace.sRGB))
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: ExcludeSemantics(excluding: true)
+WIDGET: SizedBox(width: 64.0, height: 64.0)
+WIDGET: Center(alignment: Alignment.center)
+WIDGET: RichText(textDirection: ltr, softWrap: wrapping at box width, overflow: visible, maxLines: unlimited, text: "∩Öô")
+WIDGET: SizedBox(height: 24.0)
+WIDGET: CircularProgressIndicator(<indeterminate>)
+WIDGET: AnimatedBuilder(listenable: AnimationController#f98bc(Γû╢ 0.000))
+WIDGET: Semantics(container: false, properties: SemanticsProperties)
+WIDGET: ConstrainedBox(BoxConstraints(36.0<=w<=Infinity, 36.0<=h<=Infinity))
+WIDGET: CustomPaint
+WIDGET: SizedBox(height: 16.0)
+WIDGET: Text("Loading secure session...", inherit: true, color: Color(alpha: 1.0000, red: 0.5804, green: 0.6392, blue: 0.7216, colorSpace: ColorSpace.sRGB))
+WIDGET: RichText(softWrap: wrapping at box width, maxLines: unlimited, text: "Loading secure session...")
+WIDGET: LayoutId-[<_ScaffoldSlot.floatingActionButton>](id: _ScaffoldSlot.floatingActionButton)
+WIDGET: MediaQuery(MediaQueryData(size: Size(800.0, 600.0), devicePixelRatio: 3.0, textScaler: SystemTextScaler (no scaling), platformBrightness: Brightness.light, padding: EdgeInsets.zero, viewPadding: EdgeInsets.zero, viewInsets: EdgeInsets.zero, systemGestureInsets: EdgeInsets.zero, alwaysUse24HourFormat: false, accessibleNavigation: false, highContrast: false, onOffSwitchLabels: false, disableAnimations: false, invertColors: false, boldText: false, navigationMode: traditional, gestureSettings: DeviceGestureSettings(touchSlop: null), displayFeatures: [], supportsShowingSystemContextMenu: false))
+WIDGET: _FloatingActionButtonTransition
+WIDGET: Stack(alignment: Alignment.centerRight, fit: loose)
+WIDGET: ScaleTransition(listenable: AnimationMin<double>(_AnimationSwap<double>(AnimationController#d6fbc(ΓÅ¡ 1.000; paused)Γ₧⌐CurveTween(curve: FlippedCurve(Interval(0.5Γï»1.0)Γ₧⌐Cubic(0.25, 0.10, 0.25, 1.00)))Γ₧⌐1.0Γ₧¬ReverseAnimation, AnimationController#d6fbc(ΓÅ¡ 1.000; paused)Γ₧⌐CurveTween(curve: Interval(0.5Γï»1.0)Γ₧⌐Cubic(0.25, 0.10, 0.25, 1.00))Γ₧⌐1.0), AnimationController#c8ee3(ΓÅ« 0.000; paused)Γ₧⌐Cubic(0.42, 0.00, 1.00, 1.00)))
+WIDGET: Transform
+WIDGET: RotationTransition(listenable: AnimationController#c8ee3(ΓÅ« 0.000; paused)Γ₧⌐CurveTween(curve: Cubic(0.42, 0.00, 1.00, 1.00))Γ₧⌐Tween<double>(0.875 ΓåÆ 1.0)Γ₧⌐0.875Γ₧⌐TrainHoppingAnimation(next: _AnimationSwap<double>(AnimationController#d6fbc(ΓÅ¡ 1.000; paused)Γ₧⌐Tween<double>(0.75 ΓåÆ 1.0)Γ₧⌐1.0, AnimationController#d6fbc(ΓÅ¡ 1.000; paused)Γ₧⌐CurveTween(curve: Threshold)Γ₧⌐1.0Γ₧¬ReverseAnimation)))
+WIDGET: Transform
+ΓòÉΓòÉΓòí EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK Γò₧ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+The following TestFailure was thrown running a test:
+Expected: exactly one matching candidate
+  Actual: _TextWidgetFinder:<Found 0 widgets with text "GitHub Manager Pro": []>
+   Which: means none were found but one was expected
+
+When the exception was thrown, this was the stack:
+#4      main.<anonymous closure> (file:///C:/Users/MURTUZA/Desktop/Automate%20Repo/test/widget_test.dart:26:5)
+<asynchronous suspension>
+#5      testWidgets.<anonymous closure>.<anonymous closure> (package:flutter_test/src/widget_tester.dart:192:15)
+<asynchronous suspension>
+#6      TestWidgetsFlutterBinding._runTestBody (package:flutter_test/src/binding.dart:1059:5)
+<asynchronous suspension>
+<asynchronous suspension>
+(elided one frame from package:stack_trace)
+
+This was caught by the test expectation on the following line:
+  file:///C:/Users/MURTUZA/Desktop/Automate%20Repo/test/widget_test.dart line 26
+The test description was:
+  App splash screen smoke test
+ΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉ
+00:00 +0 -1: App splash screen smoke test [E]
+  Test failed. See exception logs above.
+  The test description was: App splash screen smoke test
+  
+00:00 +0 -1: Some tests failed.
